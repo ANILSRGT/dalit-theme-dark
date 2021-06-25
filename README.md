@@ -1,6 +1,6 @@
 # ANILSRGT
 
-#### DELIT THEME DARK
+#### DALIT THEME DARK
 
 ![ANILSRGT](https://github.com/ANILSRGT/dalit-theme-dark/blob/master/images/ss.png/)
 
