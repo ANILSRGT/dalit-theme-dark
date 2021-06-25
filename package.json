@@ -1,0 +1,21 @@
+{
+    "name": "dalit-theme-dark",
+    "displayName": "Dalit Theme Dark",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dalit Theme Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dalit Theme Dark-color-theme.json"
+            }
+        ]
+    }
+}
