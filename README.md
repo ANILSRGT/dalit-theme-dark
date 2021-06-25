@@ -2,7 +2,7 @@
 
 #### DELIT THEME DARK
 
-<!--![hackpot](https://github.com/anilsrgt/)!-->
+![hackpot](https://github.com/ANILSRGT/dalit-theme-dark/blob/master/images/ss.png/)
 
 # GOOD CODING
 
