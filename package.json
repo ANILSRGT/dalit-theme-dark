@@ -1,8 +1,25 @@
 {
     "name": "dalit-theme-dark",
     "displayName": "Dalit Theme Dark",
-    "description": "",
+    "description": "Light in Dark Theme",
     "version": "0.0.1",
+    "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ANILSRGT/dalit-theme-dark"
+    },
+    "keywords": [
+        "dalit",
+        "dark",
+        "theme",
+        "ANILSRGT",
+        "Anıl",
+        "Sorgit",
+        "tema",
+        "koyu"
+    ],
+    "license": "MIT",
+    "publisher": "ANILSRGT",
     "engines": {
         "vscode": "^1.57.0"
     },
