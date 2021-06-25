@@ -2,7 +2,7 @@
     "name": "dalit-theme-dark",
     "displayName": "Dalit Theme Dark",
     "description": "Light in Dark Theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
